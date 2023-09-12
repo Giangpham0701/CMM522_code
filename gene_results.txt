@@ -1,0 +1,4 @@
+UnknownGene1 200 100 300 coding
+UnknownGene2 100 200 400 noncoding
+UnknownGene3 0 700 10 coding
+UnknownGene4 1000 2000 1500 coding
